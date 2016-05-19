@@ -1,0 +1,12 @@
+{
+    "type": "mob",
+    "name": "human",
+    "description": "a fatty human",
+    "dense": true,
+    "sprites": ["sprites/mob/mob_human_0"],
+    "spriteSouth": "sprites/mob/mob_human_0",
+    "spriteNorth": "sprites/mob/mob_human_1",
+    "spriteEast": "sprites/mob/mob_human_2",
+    "spriteWest": "sprites/mob/mob_human_3",
+	"deathsprite": "sprites/mob/mob_human_4"
+}

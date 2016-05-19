@@ -1,0 +1,12 @@
+{
+    "type": "mob",
+    "name": "skeleton",
+    "description": "spooky scary",
+    "dense": true,
+    "sprites": ["sprites/mob/humanoid_205"],
+    "spriteSouth": "sprites/mob/humanoid_205",
+    "spriteNorth": "sprites/mob/humanoid_206",
+    "spriteEast": "sprites/mob/humanoid_207",
+    "spriteWest": "sprites/mob/humanoid_208",
+    "hitbox": [{"x": -0.095, "y": -0.16}, {"x": -0.09, "y": 0.025}, {"x": -0.05, "y": 0.13}, {"x": 0.04, "y": 0.13}, {"x": 0.08, "y": 0.025}, {"x": 0.085, "y": -0.16}]
+}

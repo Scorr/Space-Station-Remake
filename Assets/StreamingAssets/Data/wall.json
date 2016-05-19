@@ -1,0 +1,7 @@
+{
+    "type": "wall",
+    "name": "wall",
+    "description": "a sturdy wall",
+    "dense": true,
+    "sprites": ["sprites/turf/walls_0"]
+}

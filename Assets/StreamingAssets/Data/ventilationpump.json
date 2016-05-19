@@ -1,0 +1,7 @@
+{
+    "type": "ventilationpump",
+    "name": "vent",
+    "description": "Pumps air.",
+    "dense": false,
+    "sprites": ["sprites/obj/vent_pump_0"]
+}

@@ -1,0 +1,8 @@
+{
+    "type": "metal",
+    "name": "metal",
+    "description": "metal sheet",
+    "dense": false,
+    "sprites": ["sprites/obj/tiles_0"],
+	"maxStack": 50
+}

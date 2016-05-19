@@ -1,0 +1,9 @@
+{
+    "type": "item",
+    "name": "card",
+    "description": "a fancy card",
+    "dense": false,
+    "sprites": ["sprites/obj/card_0"],
+    "damage": 5,
+    "attackVerb": "stabs"
+}

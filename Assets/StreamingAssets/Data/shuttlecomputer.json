@@ -1,0 +1,7 @@
+{
+    "type": "shuttlecomputer",
+    "name": "shuttle computer",
+    "description": "beep bop",
+    "dense": true,
+    "sprites": ["sprites/obj/computer_0", "sprites/obj/computer_2"]
+}

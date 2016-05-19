@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: ae6ace69708543d46a5a12285b39afc9
+timeCreated: 1451335766
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MobSpritesFull_0
+    21300002: MobSpritesFull_1
+    21300004: MobSpritesFull_2
+    21300006: MobSpritesFull_3
+    21300008: MobSpritesFull_4
+    21300010: MobSpritesFull_5
+    21300012: MobSpritesFull_6
+    21300014: MobSpritesFull_7
+    21300016: MobSpritesFull_8
+    21300018: MobSpritesFull_9
+    21300020: MobSpritesFull_10
+    21300022: MobSpritesFull_11
+    21300024: MobSpritesFull_12
+    21300026: MobSpritesFull_13
+    21300028: MobSpritesFull_14
+    21300030: MobHuman_0
+    21300032: MobHuman_1
+    21300034: MobHuman_2
+    21300036: MobHuman_3
+    21300038: MobHuman_4
+    21300040: MobHuman_5
+    21300042: MobHuman_6
+    21300044: MobHuman_7
+    21300046: MobHuman_8
+    21300048: MobHuman_9
+    21300050: MobHuman_10
+    21300052: MobHuman_11
+    21300054: MobHuman_12
+    21300056: MobHuman_13
+    21300058: MobHuman_14
+    21300060: mob_human_0
+    21300062: mob_human_1
+    21300064: mob_human_2
+    21300066: mob_human_3
+    21300068: mob_human_4
+    21300070: mob_human_5
+    21300072: mob_human_6
+    21300074: mob_human_7
+    21300076: mob_human_8
+    21300078: mob_human_9
+    21300080: mob_human_10
+    21300082: mob_human_11
+    21300084: mob_human_12
+    21300086: mob_human_13
+    21300088: mob_human_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mob_human_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: mob_human_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: mob_human_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: mob_human_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: mob_human_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 1}
+        - {x: 3, y: 5}
+        - {x: -16, y: 5}
+        - {x: -16, y: -15}
+        - {x: -12, y: -16}
+        - {x: 7, y: -16}
+        - {x: 16, y: -10}
+        - {x: 16, y: -4}
+    - name: mob_human_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: mob_human_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: mob_human_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: mob_human_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: mob_human_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 1}
+        - {x: 3, y: 5}
+        - {x: -16, y: 5}
+        - {x: -16, y: -15}
+        - {x: -12, y: -16}
+        - {x: 7, y: -16}
+        - {x: 16, y: -10}
+        - {x: 16, y: -4}
+    - name: mob_human_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 15}
+        - {x: -6, y: 15}
+        - {x: -12, y: 8}
+        - {x: -12, y: -8}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 11, y: -12}
+        - {x: 11, y: 2}
+        - {x: 8, y: 12}
+    - name: mob_human_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 15}
+        - {x: -6, y: 15}
+        - {x: -12, y: 8}
+        - {x: -12, y: -8}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 11, y: -12}
+        - {x: 11, y: 2}
+        - {x: 8, y: 12}
+    - name: mob_human_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -8, y: 11}
+        - {x: -8, y: -12}
+        - {x: -7, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: 14}
+        - {x: 3, y: 15}
+    - name: mob_human_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -8, y: 14}
+        - {x: -8, y: -12}
+        - {x: -7, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: 15}
+    - name: mob_human_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 6}
+        - {x: -7, y: 6}
+        - {x: -12, y: 4}
+        - {x: -16, y: 3}
+        - {x: -16, y: -15}
+        - {x: -15, y: -16}
+        - {x: 10, y: -16}
+        - {x: 13, y: -14}
+        - {x: 16, y: -7}
+        - {x: 16, y: -4}
+        - {x: 11, y: 1}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

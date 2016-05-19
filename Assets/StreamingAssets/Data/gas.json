@@ -1,0 +1,5 @@
+{
+    "type": "gas",
+    "name": "gas",
+    "sprites": ["sprites/turf/tile_effects_0"]
+}

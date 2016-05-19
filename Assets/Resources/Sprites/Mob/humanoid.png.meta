@@ -1,0 +1,5036 @@
+fileFormatVersion: 2
+guid: 68f71cd1fbd36d94f85f368b2552eb72
+timeCreated: 1451407655
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: humanoid_0
+    21300002: humanoid_1
+    21300004: humanoid_2
+    21300006: humanoid_3
+    21300008: humanoid_4
+    21300010: humanoid_5
+    21300012: humanoid_6
+    21300014: humanoid_7
+    21300016: humanoid_8
+    21300018: humanoid_9
+    21300020: humanoid_10
+    21300022: humanoid_11
+    21300024: humanoid_12
+    21300026: humanoid_13
+    21300028: humanoid_14
+    21300030: humanoid_15
+    21300032: humanoid_16
+    21300034: humanoid_17
+    21300036: humanoid_18
+    21300038: humanoid_19
+    21300040: humanoid_20
+    21300042: humanoid_21
+    21300044: humanoid_22
+    21300046: humanoid_23
+    21300048: humanoid_24
+    21300050: humanoid_25
+    21300052: humanoid_26
+    21300054: humanoid_27
+    21300056: humanoid_28
+    21300058: humanoid_29
+    21300060: humanoid_30
+    21300062: humanoid_31
+    21300064: humanoid_32
+    21300066: humanoid_33
+    21300068: humanoid_34
+    21300070: humanoid_35
+    21300072: humanoid_36
+    21300074: humanoid_37
+    21300076: humanoid_38
+    21300078: humanoid_39
+    21300080: humanoid_40
+    21300082: humanoid_41
+    21300084: humanoid_42
+    21300086: humanoid_43
+    21300088: humanoid_44
+    21300090: humanoid_45
+    21300092: humanoid_46
+    21300094: humanoid_47
+    21300096: humanoid_48
+    21300098: humanoid_49
+    21300100: humanoid_50
+    21300102: humanoid_51
+    21300104: humanoid_52
+    21300106: humanoid_53
+    21300108: humanoid_54
+    21300110: humanoid_55
+    21300112: humanoid_56
+    21300114: humanoid_57
+    21300116: humanoid_58
+    21300118: humanoid_59
+    21300120: humanoid_60
+    21300122: humanoid_61
+    21300124: humanoid_62
+    21300126: humanoid_63
+    21300128: humanoid_64
+    21300130: humanoid_65
+    21300132: humanoid_66
+    21300134: humanoid_67
+    21300136: humanoid_68
+    21300138: humanoid_69
+    21300140: humanoid_70
+    21300142: humanoid_71
+    21300144: humanoid_72
+    21300146: humanoid_73
+    21300148: humanoid_74
+    21300150: humanoid_75
+    21300152: humanoid_76
+    21300154: humanoid_77
+    21300156: humanoid_78
+    21300158: humanoid_79
+    21300160: humanoid_80
+    21300162: humanoid_81
+    21300164: humanoid_82
+    21300166: humanoid_83
+    21300168: humanoid_84
+    21300170: humanoid_85
+    21300172: humanoid_86
+    21300174: humanoid_87
+    21300176: humanoid_88
+    21300178: humanoid_89
+    21300180: humanoid_90
+    21300182: humanoid_91
+    21300184: humanoid_92
+    21300186: humanoid_93
+    21300188: humanoid_94
+    21300190: humanoid_95
+    21300192: humanoid_96
+    21300194: humanoid_97
+    21300196: humanoid_98
+    21300198: humanoid_99
+    21300200: humanoid_100
+    21300202: humanoid_101
+    21300204: humanoid_102
+    21300206: humanoid_103
+    21300208: humanoid_104
+    21300210: humanoid_105
+    21300212: humanoid_106
+    21300214: humanoid_107
+    21300216: humanoid_108
+    21300218: humanoid_109
+    21300220: humanoid_110
+    21300222: humanoid_111
+    21300224: humanoid_112
+    21300226: humanoid_113
+    21300228: humanoid_114
+    21300230: humanoid_115
+    21300232: humanoid_116
+    21300234: humanoid_117
+    21300236: humanoid_118
+    21300238: humanoid_119
+    21300240: humanoid_120
+    21300242: humanoid_121
+    21300244: humanoid_122
+    21300246: humanoid_123
+    21300248: humanoid_124
+    21300250: humanoid_125
+    21300252: humanoid_126
+    21300254: humanoid_127
+    21300256: humanoid_128
+    21300258: humanoid_129
+    21300260: humanoid_130
+    21300262: humanoid_131
+    21300264: humanoid_132
+    21300266: humanoid_133
+    21300268: humanoid_134
+    21300270: humanoid_135
+    21300272: humanoid_136
+    21300274: humanoid_137
+    21300276: humanoid_138
+    21300278: humanoid_139
+    21300280: humanoid_140
+    21300282: humanoid_141
+    21300284: humanoid_142
+    21300286: humanoid_143
+    21300288: humanoid_144
+    21300290: humanoid_145
+    21300292: humanoid_146
+    21300294: humanoid_147
+    21300296: humanoid_148
+    21300298: humanoid_149
+    21300300: humanoid_150
+    21300302: humanoid_151
+    21300304: humanoid_152
+    21300306: humanoid_153
+    21300308: humanoid_154
+    21300310: humanoid_155
+    21300312: humanoid_156
+    21300314: humanoid_157
+    21300316: humanoid_158
+    21300318: humanoid_159
+    21300320: humanoid_160
+    21300322: humanoid_161
+    21300324: humanoid_162
+    21300326: humanoid_163
+    21300328: humanoid_164
+    21300330: humanoid_165
+    21300332: humanoid_166
+    21300334: humanoid_167
+    21300336: humanoid_168
+    21300338: humanoid_169
+    21300340: humanoid_170
+    21300342: humanoid_171
+    21300344: humanoid_172
+    21300346: humanoid_173
+    21300348: humanoid_174
+    21300350: humanoid_175
+    21300352: humanoid_176
+    21300354: humanoid_177
+    21300356: humanoid_178
+    21300358: humanoid_179
+    21300360: humanoid_180
+    21300362: humanoid_181
+    21300364: humanoid_182
+    21300366: humanoid_183
+    21300368: humanoid_184
+    21300370: humanoid_185
+    21300372: humanoid_186
+    21300374: humanoid_187
+    21300376: humanoid_188
+    21300378: humanoid_189
+    21300380: humanoid_190
+    21300382: humanoid_191
+    21300384: humanoid_192
+    21300386: humanoid_193
+    21300388: humanoid_194
+    21300390: humanoid_195
+    21300392: humanoid_196
+    21300394: humanoid_197
+    21300396: humanoid_198
+    21300398: humanoid_199
+    21300400: humanoid_200
+    21300402: humanoid_201
+    21300404: humanoid_202
+    21300406: humanoid_203
+    21300408: humanoid_204
+    21300410: humanoid_205
+    21300412: humanoid_206
+    21300414: humanoid_207
+    21300416: humanoid_208
+    21300418: humanoid_209
+    21300420: humanoid_210
+    21300422: humanoid_211
+    21300424: humanoid_212
+    21300426: humanoid_213
+    21300428: humanoid_214
+    21300430: humanoid_215
+    21300432: humanoid_216
+    21300434: humanoid_217
+    21300436: humanoid_218
+    21300438: humanoid_219
+    21300440: humanoid_220
+    21300442: humanoid_221
+    21300444: humanoid_222
+    21300446: humanoid_223
+    21300448: humanoid_224
+    21300450: humanoid_225
+    21300452: humanoid_226
+    21300454: humanoid_227
+    21300456: humanoid_228
+    21300458: humanoid_229
+    21300460: humanoid_230
+    21300462: humanoid_231
+    21300464: humanoid_232
+    21300466: humanoid_233
+    21300468: humanoid_234
+    21300470: humanoid_235
+    21300472: humanoid_236
+    21300474: humanoid_237
+    21300476: humanoid_238
+    21300478: humanoid_239
+    21300480: humanoid_240
+    21300482: humanoid_241
+    21300484: humanoid_242
+    21300486: humanoid_243
+    21300488: humanoid_244
+    21300490: humanoid_245
+    21300492: humanoid_246
+    21300494: humanoid_247
+    21300496: humanoid_248
+    21300498: humanoid_249
+    21300500: humanoid_250
+    21300502: humanoid_251
+    21300504: humanoid_252
+    21300506: humanoid_253
+    21300508: humanoid_254
+    21300510: humanoid_255
+    21300512: humanoid_256
+    21300514: humanoid_257
+    21300516: humanoid_258
+    21300518: humanoid_259
+    21300520: humanoid_260
+    21300522: humanoid_261
+    21300524: humanoid_262
+    21300526: humanoid_263
+    21300528: humanoid_264
+    21300530: humanoid_265
+    21300532: humanoid_266
+    21300534: humanoid_267
+    21300536: humanoid_268
+    21300538: humanoid_269
+    21300540: humanoid_270
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: humanoid_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 7, y: -11}
+        - {x: 7, y: 14}
+        - {x: 3, y: 15}
+    - name: humanoid_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 7, y: -11}
+        - {x: 7, y: 14}
+        - {x: 3, y: 15}
+    - name: humanoid_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 7, y: -11}
+        - {x: 7, y: 14}
+        - {x: 3, y: 15}
+    - name: humanoid_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 7, y: -11}
+        - {x: 7, y: 14}
+        - {x: 3, y: 15}
+    - name: humanoid_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 7, y: -11}
+        - {x: 7, y: 14}
+        - {x: 3, y: 15}
+    - name: humanoid_40
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_43
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_44
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_46
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 7, y: -11}
+        - {x: 7, y: 14}
+        - {x: 3, y: 15}
+    - name: humanoid_48
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_49
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 7, y: -11}
+        - {x: 7, y: 14}
+        - {x: 3, y: 15}
+    - name: humanoid_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_60
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_61
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_63
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 7, y: -11}
+        - {x: 7, y: 14}
+        - {x: 3, y: 15}
+    - name: humanoid_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_65
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_66
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_69
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 7, y: -11}
+        - {x: 7, y: 14}
+        - {x: 3, y: 15}
+    - name: humanoid_72
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_73
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_75
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_76
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_77
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_78
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_79
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 7, y: -11}
+        - {x: 7, y: 14}
+        - {x: 3, y: 15}
+    - name: humanoid_80
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_81
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_82
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_83
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 7, y: -11}
+        - {x: 7, y: 14}
+        - {x: 3, y: 15}
+    - name: humanoid_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 7, y: -11}
+        - {x: 7, y: 14}
+        - {x: 3, y: 15}
+    - name: humanoid_96
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_97
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_98
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_99
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_100
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_102
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 15}
+        - {x: -7, y: 13}
+        - {x: -7, y: -2}
+        - {x: -6, y: -8}
+        - {x: -5, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 13}
+        - {x: 5, y: 15}
+    - name: humanoid_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 7, y: -11}
+        - {x: 7, y: 14}
+        - {x: 3, y: 15}
+    - name: humanoid_104
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_105
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_106
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_107
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_108
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_109
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_110
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_111
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_112
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_113
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_114
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_115
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_116
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_117
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_119
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_120
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_121
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_123
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_124
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_125
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_126
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_127
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_128
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_129
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_130
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_131
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_132
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 15}
+        - {x: -5, y: 15}
+        - {x: -11, y: 7}
+        - {x: -11, y: -7}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -5}
+        - {x: 10, y: 7}
+        - {x: 9, y: 12}
+    - name: humanoid_133
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 15}
+        - {x: -5, y: 15}
+        - {x: -11, y: 7}
+        - {x: -11, y: -7}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -5}
+        - {x: 10, y: 7}
+        - {x: 9, y: 12}
+    - name: humanoid_134
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -7, y: 11}
+        - {x: -7, y: -13}
+        - {x: -6, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 16}
+    - name: humanoid_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -7, y: 12}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+        - {x: 3, y: 16}
+    - name: humanoid_136
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -11, y: 6}
+        - {x: -11, y: -7}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -8}
+        - {x: 10, y: 6}
+        - {x: 4, y: 15}
+    - name: humanoid_137
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -11, y: 6}
+        - {x: -11, y: -7}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -8}
+        - {x: 10, y: 6}
+        - {x: 4, y: 15}
+    - name: humanoid_138
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 13}
+        - {x: -7, y: -7}
+        - {x: -6, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 11}
+        - {x: 3, y: 15}
+    - name: humanoid_139
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 15}
+        - {x: -7, y: 12}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_140
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_141
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_142
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_143
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_144
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_145
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_146
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_147
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 7, y: -11}
+        - {x: 7, y: 14}
+        - {x: 3, y: 15}
+    - name: humanoid_148
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 16}
+        - {x: -11, y: 16}
+        - {x: -11, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -7}
+        - {x: 10, y: 8}
+        - {x: 8, y: 14}
+    - name: humanoid_149
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 16}
+        - {x: -11, y: 16}
+        - {x: -11, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -7}
+        - {x: 10, y: 8}
+        - {x: 8, y: 14}
+    - name: humanoid_150
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -9, y: -8}
+        - {x: -5, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 2, y: 16}
+    - name: humanoid_151
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 16}
+        - {x: -7, y: 13}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 9, y: -2}
+        - {x: 9, y: 12}
+        - {x: 7, y: 16}
+    - name: humanoid_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 13}
+        - {x: -11, y: -6}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -15}
+        - {x: 10, y: 16}
+    - name: humanoid_153
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 13}
+        - {x: -11, y: -6}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -15}
+        - {x: 10, y: 16}
+    - name: humanoid_154
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -10}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 13}
+        - {x: 1, y: 16}
+    - name: humanoid_155
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 16}
+        - {x: -7, y: 14}
+        - {x: -7, y: -11}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 8, y: -6}
+        - {x: 8, y: 16}
+    - name: humanoid_156
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 4}
+        - {x: -16, y: -15}
+        - {x: -13, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: -11}
+        - {x: 16, y: 2}
+        - {x: 15, y: 4}
+    - name: humanoid_157
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_158
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_159
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_160
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_161
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_162
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_163
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_164
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 7, y: -11}
+        - {x: 7, y: 14}
+        - {x: 3, y: 15}
+    - name: humanoid_165
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_167
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_168
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 7, y: -11}
+        - {x: 7, y: 14}
+        - {x: 3, y: 15}
+    - name: humanoid_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_170
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_171
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_172
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_173
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_174
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_176
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 7, y: -11}
+        - {x: 7, y: 14}
+        - {x: 3, y: 15}
+    - name: humanoid_177
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 15}
+        - {x: -9, y: 12}
+        - {x: -11, y: 8}
+        - {x: -11, y: -8}
+        - {x: -9, y: -16}
+        - {x: 6, y: -16}
+        - {x: 10, y: -11}
+        - {x: 10, y: 6}
+        - {x: 6, y: 15}
+    - name: humanoid_178
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 15}
+        - {x: -9, y: 12}
+        - {x: -11, y: 8}
+        - {x: -11, y: -8}
+        - {x: -9, y: -16}
+        - {x: 6, y: -16}
+        - {x: 10, y: -11}
+        - {x: 10, y: 6}
+        - {x: 6, y: 15}
+    - name: humanoid_179
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 14}
+        - {x: -7, y: -15}
+        - {x: -5, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 14}
+        - {x: 6, y: 15}
+    - name: humanoid_180
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 4, y: -16}
+        - {x: 7, y: -10}
+        - {x: 7, y: 14}
+        - {x: 3, y: 15}
+    - name: humanoid_181
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 15}
+        - {x: -9, y: 12}
+        - {x: -11, y: 8}
+        - {x: -11, y: -8}
+        - {x: -9, y: -16}
+        - {x: 6, y: -16}
+        - {x: 10, y: -11}
+        - {x: 10, y: 6}
+        - {x: 6, y: 15}
+    - name: humanoid_182
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 15}
+        - {x: -9, y: 12}
+        - {x: -11, y: 8}
+        - {x: -11, y: -8}
+        - {x: -9, y: -16}
+        - {x: 6, y: -16}
+        - {x: 10, y: -11}
+        - {x: 10, y: 6}
+        - {x: 6, y: 15}
+    - name: humanoid_183
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 13}
+        - {x: -7, y: -10}
+        - {x: -5, y: -16}
+        - {x: 4, y: -16}
+        - {x: 7, y: -8}
+        - {x: 7, y: 11}
+        - {x: 5, y: 15}
+    - name: humanoid_184
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 4, y: -16}
+        - {x: 7, y: -10}
+        - {x: 7, y: 14}
+        - {x: 3, y: 15}
+    - name: humanoid_185
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 16}
+        - {x: -11, y: 16}
+        - {x: -11, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -7}
+        - {x: 10, y: 8}
+        - {x: 8, y: 14}
+    - name: humanoid_186
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 16}
+        - {x: -11, y: 16}
+        - {x: -11, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -7}
+        - {x: 10, y: 8}
+        - {x: 8, y: 14}
+    - name: humanoid_187
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -9, y: -8}
+        - {x: -5, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 2, y: 16}
+    - name: humanoid_188
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 16}
+        - {x: -7, y: 13}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 9, y: -2}
+        - {x: 9, y: 12}
+        - {x: 7, y: 16}
+    - name: humanoid_189
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 16}
+        - {x: -8, y: 16}
+        - {x: -11, y: 13}
+        - {x: -11, y: -6}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 4}
+        - {x: 8, y: 12}
+    - name: humanoid_190
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -11, y: 4}
+        - {x: -11, y: -6}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 16}
+    - name: humanoid_191
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -10}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 13}
+        - {x: 1, y: 16}
+    - name: humanoid_192
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 16}
+        - {x: -7, y: 13}
+        - {x: -7, y: -11}
+        - {x: -6, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 16}
+    - name: humanoid_193
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_194
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_195
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 15}
+        - {x: -7, y: 13}
+        - {x: -7, y: -2}
+        - {x: -6, y: -8}
+        - {x: -5, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 13}
+        - {x: 5, y: 15}
+    - name: humanoid_196
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 7, y: -11}
+        - {x: 7, y: 14}
+        - {x: 3, y: 15}
+    - name: humanoid_197
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_198
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_199
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -6}
+        - {x: -6, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_200
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 15}
+        - {x: -7, y: 13}
+        - {x: -7, y: -6}
+        - {x: -6, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_201
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_202
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_203
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 13}
+        - {x: -7, y: -6}
+        - {x: -5, y: -16}
+        - {x: 6, y: -16}
+        - {x: 7, y: -15}
+        - {x: 7, y: 14}
+        - {x: 5, y: 15}
+    - name: humanoid_204
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 15}
+        - {x: -7, y: 13}
+        - {x: -7, y: -11}
+        - {x: -6, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_205
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 6}
+        - {x: 4, y: 14}
+    - name: humanoid_206
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 6}
+        - {x: 4, y: 14}
+    - name: humanoid_207
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 14}
+        - {x: -4, y: 14}
+        - {x: -7, y: 8}
+        - {x: -7, y: -6}
+        - {x: -3, y: -16}
+        - {x: 6, y: -16}
+        - {x: 7, y: -12}
+        - {x: 7, y: 12}
+    - name: humanoid_208
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 14}
+        - {x: -7, y: 13}
+        - {x: -7, y: -10}
+        - {x: -6, y: -16}
+        - {x: 3, y: -16}
+        - {x: 7, y: -9}
+        - {x: 7, y: 12}
+        - {x: 5, y: 14}
+    - name: humanoid_209
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 13}
+        - {x: 2, y: 14}
+        - {x: -5, y: 14}
+        - {x: -7, y: 12}
+        - {x: -11, y: 4}
+        - {x: -11, y: -8}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 4}
+    - name: humanoid_210
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 14}
+        - {x: -9, y: 13}
+        - {x: -11, y: 4}
+        - {x: -11, y: -12}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -11}
+        - {x: 10, y: 4}
+        - {x: 8, y: 14}
+    - name: humanoid_211
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14}
+        - {x: -7, y: 9}
+        - {x: -7, y: -6}
+        - {x: -4, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 14}
+    - name: humanoid_212
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 14}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 4, y: -16}
+        - {x: 7, y: -4}
+        - {x: 7, y: 7}
+        - {x: 4, y: 14}
+    - name: humanoid_213
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 6}
+        - {x: 4, y: 14}
+    - name: humanoid_214
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 6}
+        - {x: 4, y: 14}
+    - name: humanoid_215
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 14}
+        - {x: -4, y: 14}
+        - {x: -7, y: 8}
+        - {x: -7, y: -6}
+        - {x: -3, y: -16}
+        - {x: 6, y: -16}
+        - {x: 7, y: -12}
+        - {x: 7, y: 12}
+    - name: humanoid_216
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 14}
+        - {x: -7, y: 13}
+        - {x: -7, y: -10}
+        - {x: -6, y: -16}
+        - {x: 3, y: -16}
+        - {x: 7, y: -9}
+        - {x: 7, y: 12}
+        - {x: 5, y: 14}
+    - name: humanoid_217
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_218
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_219
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 14}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 11}
+        - {x: 4, y: 15}
+    - name: humanoid_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_221
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_222
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_223
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_224
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 7, y: -11}
+        - {x: 7, y: 14}
+        - {x: 3, y: 15}
+    - name: humanoid_225
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_226
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_227
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_228
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_229
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_230
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_231
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_232
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 7, y: -11}
+        - {x: 7, y: 14}
+        - {x: 3, y: 15}
+    - name: humanoid_233
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_234
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_235
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -6}
+        - {x: -6, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_236
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 15}
+        - {x: -7, y: 13}
+        - {x: -7, y: -6}
+        - {x: -6, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_237
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_238
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_239
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -6}
+        - {x: -6, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_240
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 15}
+        - {x: -7, y: 13}
+        - {x: -7, y: -6}
+        - {x: -6, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_241
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_242
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_243
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -6}
+        - {x: -6, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_244
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 15}
+        - {x: -7, y: 13}
+        - {x: -7, y: -6}
+        - {x: -6, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_245
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 6}
+        - {x: 4, y: 14}
+    - name: humanoid_246
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 6}
+        - {x: 4, y: 14}
+    - name: humanoid_247
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 14}
+        - {x: -4, y: 14}
+        - {x: -7, y: 8}
+        - {x: -7, y: -6}
+        - {x: -3, y: -16}
+        - {x: 6, y: -16}
+        - {x: 7, y: -12}
+        - {x: 7, y: 12}
+    - name: humanoid_248
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 14}
+        - {x: -7, y: 13}
+        - {x: -7, y: -10}
+        - {x: -6, y: -16}
+        - {x: 3, y: -16}
+        - {x: 7, y: -9}
+        - {x: 7, y: 12}
+        - {x: 5, y: 14}
+    - name: humanoid_249
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 6}
+        - {x: 4, y: 14}
+    - name: humanoid_250
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 6}
+        - {x: 4, y: 14}
+    - name: humanoid_251
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 14}
+        - {x: -4, y: 14}
+        - {x: -7, y: 8}
+        - {x: -7, y: -6}
+        - {x: -3, y: -16}
+        - {x: 6, y: -16}
+        - {x: 7, y: -12}
+        - {x: 7, y: 12}
+    - name: humanoid_252
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 14}
+        - {x: -7, y: 13}
+        - {x: -7, y: -10}
+        - {x: -6, y: -16}
+        - {x: 3, y: -16}
+        - {x: 7, y: -9}
+        - {x: 7, y: 12}
+        - {x: 5, y: 14}
+    - name: humanoid_253
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_254
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -7, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 1, y: 15}
+    - name: humanoid_255
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+    - name: humanoid_256
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_257
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 3}
+        - {x: -16, y: 2}
+        - {x: -16, y: -16}
+        - {x: 14, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: -2}
+        - {x: 7, y: 3}
+    - name: humanoid_258
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 10}
+        - {x: -15, y: 8}
+        - {x: -15, y: -9}
+        - {x: -8, y: -11}
+        - {x: 7, y: -11}
+        - {x: 16, y: -9}
+        - {x: 16, y: 7}
+        - {x: 8, y: 10}
+    - name: humanoid_259
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 15}
+        - {x: -7, y: 15}
+        - {x: -11, y: 6}
+        - {x: -11, y: -10}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -9}
+        - {x: 10, y: 1}
+        - {x: 8, y: 14}
+    - name: humanoid_260
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 15}
+        - {x: -7, y: 15}
+        - {x: -11, y: 6}
+        - {x: -11, y: -10}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -9}
+        - {x: 10, y: 1}
+        - {x: 8, y: 14}
+    - name: humanoid_261
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -15}
+        - {x: -5, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_262
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 15}
+        - {x: -6, y: 15}
+        - {x: -7, y: 12}
+        - {x: -7, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -14}
+        - {x: 7, y: -5}
+        - {x: 7, y: 14}
+    - name: humanoid_263
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 15}
+        - {x: -7, y: 15}
+        - {x: -11, y: 6}
+        - {x: -11, y: -10}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -9}
+        - {x: 10, y: 1}
+        - {x: 8, y: 14}
+    - name: humanoid_264
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 15}
+        - {x: -7, y: 15}
+        - {x: -11, y: 6}
+        - {x: -11, y: -10}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -9}
+        - {x: 10, y: 1}
+        - {x: 8, y: 14}
+    - name: humanoid_265
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -15}
+        - {x: -5, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 15}
+    - name: humanoid_266
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 15}
+        - {x: -6, y: 15}
+        - {x: -7, y: 12}
+        - {x: -7, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -14}
+        - {x: 7, y: -5}
+        - {x: 7, y: 14}
+    - name: humanoid_267
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: humanoid_268
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: humanoid_269
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: humanoid_270
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

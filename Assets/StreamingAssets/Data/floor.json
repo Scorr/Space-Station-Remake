@@ -1,0 +1,7 @@
+{
+	"type": "floor",
+    "name": "floor",
+    "description": "a shiny floor",
+    "dense": false,
+    "sprites": ["sprites/turf/floors_0"]
+}
